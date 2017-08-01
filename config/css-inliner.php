@@ -12,6 +12,6 @@ return [
 	|
 	*/
 
-	'css-files' => [],
+	'css-files' => ['css/style.css', 'css/skin.css', 'css/framework.css', 'css/font-awesome.css', 'css/override.css', 'css/spacing/margins.css', 'css/spacing/paddings.css', 'css/flaticon.css', 'css/custom-skin.css', 'css/pages/billing.css'],
 
 ];
